@@ -1,0 +1,22 @@
+body {
+    background: rebeccapurple;
+}
+
+.Imgs {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.Hojas {
+    display: flex;
+    background: white;
+    border-radius: 10px;
+    padding: 9px;
+}
+
+.Inputs {
+    border: none;
+    outline: none;
+    width: 500px;
+}

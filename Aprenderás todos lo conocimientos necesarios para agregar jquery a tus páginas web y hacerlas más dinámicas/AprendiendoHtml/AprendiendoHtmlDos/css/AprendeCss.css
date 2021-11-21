@@ -1,0 +1,14 @@
+::selection{
+    background: black;
+    color: var(--ColorBlanco);
+}
+:root{
+    --ColorBlanco: #1c381c;
+}
+
+h3{
+        border: 6px solid #9932cc;
+        padding: 10px;
+        border-radius: 10px;
+        border-style: dotted;
+}

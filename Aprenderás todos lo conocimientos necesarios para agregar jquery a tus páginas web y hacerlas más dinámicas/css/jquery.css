@@ -1,0 +1,10 @@
+::selection{
+    background: #a52a2a;
+    color: #f5deb3;
+}
+.container{
+    padding-top: 140px;
+}
+h1{
+    color: hsla(254, 100%, 44%, 0.959);
+}

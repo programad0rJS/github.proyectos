@@ -1,0 +1,33 @@
+::selection{
+    background: cadetblue;
+    color: white;
+}
+
+
+:root{
+
+    --Colores: blue;
+}
+p{
+    color: rebeccapurple;
+}
+
+
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: var(--Colores);
+}
+
+a{
+    text-decoration: none;
+    color: rebeccapurple;
+    font-size: 50px;
+}
+.container{
+    padding: 100px;
+    border: 4px solid black;
+    border-radius: 20px;
+   
+    width: 290px;
+    height: 400px;
+}

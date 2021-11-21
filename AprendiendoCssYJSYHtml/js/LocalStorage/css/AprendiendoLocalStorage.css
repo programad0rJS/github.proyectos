@@ -1,0 +1,31 @@
+::selection{
+    background: yellowgreen ;
+}
+h1{
+    letter-spacing: 8px;
+    color: aqua;
+    margin-left: 40px;
+    margin-top: 4px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline rebeccapurple 4px;
+    text-shadow: 35px 15px 25px red;
+
+
+}
+input{
+    border-radius: 10px;
+    width: 220px;
+    outline: none;
+    height: 20px;
+    
+}
+
+input::placeholder{
+    color: rebeccapurple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+}
